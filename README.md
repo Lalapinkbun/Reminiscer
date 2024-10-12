@@ -44,7 +44,7 @@ Music Artist - Lalapinkbun
 and Lalapinkbun are going to sleep now lol
 
 ## Link
-(Trio Dimension Studio Youtube)[(https://www.youtube.com/@TrioDimensionStudioOfficial)]
+[Trio Dimension Studio Youtube](https://www.youtube.com/@TrioDimensionStudioOfficial)
 (Trio Dimension Studio X)[https://x.com/TrioDimension]
 (Lalapinkbun)[https://www.youtube.com/@lalapinkbun] (to Youtube)
 (GMCholos)[https://x.com/JustTurbo02] (to X)
