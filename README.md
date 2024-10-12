@@ -36,9 +36,9 @@ It'll appear after the demo version
 Eh.... Hi?
 
 ## Link
-- [Trio Dimension Studio Youtube](https://www.youtube.com/@TrioDimensionStudioOfficial) <br/>
-- [Trio Dimension Studio X](https://x.com/TrioDimension) <br/>
-- [Lalapinkbun](https://www.youtube.com/@lalapinkbun) (to Youtube) <br/>
-- [GMCholos](https://x.com/JustTurbo02) (to X) <br/>
-- [Ginka]() (nothing actually) <br/>
-- [Fenqiyuan](https://www.youtube.com/@fenqiyuan) <br/>
+- **[Trio Dimension Studio Youtube](https://www.youtube.com/@TrioDimensionStudioOfficial)** <br/>
+- **[Trio Dimension Studio X](https://x.com/TrioDimension)** <br/>
+- **[Lalapinkbun](https://www.youtube.com/@lalapinkbun)** (to Youtube) <br/>
+- **[GMCholos](https://x.com/JustTurbo02)** (to X) <br/>
+- **[Ginka]()** (nothing actually) <br/>
+- **[Fenqiyuan](https://www.youtube.com/@fenqiyuan)** <br/>
