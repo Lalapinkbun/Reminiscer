@@ -31,11 +31,11 @@ Lalapinkbun From Trio Dimension Studio
     <th> Lalapinkbun, GM Chalos, Ginka, XXX </th>
   </tr>
   <tr>
-    <the> UI </th>
+    <th> UI </th>
     <th> Lalapinkbun </th>
   </tr>
   <tr>
-    <the> Music Artist </th>
+    <th> Music Artist </th>
     <th> Lalapinkbun </th>
   </tr>
 </table>
