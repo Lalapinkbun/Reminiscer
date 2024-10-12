@@ -14,19 +14,30 @@ Lalapinkbun From Trio Dimension Studio
 
 ### Demo
 Coding - Lalapinkbun
+
 Artist - Lalapinkbun
+
 Script - Lalapinkbun
+
 Card Creator and Card System Ideator - Lalapinkbun, GM Chalos, Ginka, XXX
+
 UI - Lalapinkbun
+
 Music Artist - Lalapinkbun
 
 ### After Demo
 Coding - Lalapinkbun
+
 Artist - GMCholos, Lalapinkbun
+
 Script - Lalapinkbun
+
 Card Creator and Card System Ideator - Lalapinkbun, GM Chalos, Ginka, XXX
+
 UI - Lalapinkbun
+
 Pixel Artist - GMCholos, Lalapinkbun
+
 Music Artist - Lalapinkbun
 
 ## From Fenqiyaun
