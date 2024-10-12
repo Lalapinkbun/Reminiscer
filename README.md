@@ -30,10 +30,10 @@ Pixel Artist - GMCholos, Lalapinkbun <br/>
 Music Artist - Lalapinkbun <br/>
 
 ## About the Source Code
-It'll Appear after the demo version
+It'll appear after the demo version
 
 ## From Fenqiyaun
-and Lalapinkbun are going to sleep now lol
+Eh.... Hi?
 
 ## Link
 - [Trio Dimension Studio Youtube](https://www.youtube.com/@TrioDimensionStudioOfficial) <br/>
@@ -41,4 +41,4 @@ and Lalapinkbun are going to sleep now lol
 - [Lalapinkbun](https://www.youtube.com/@lalapinkbun) (to Youtube) <br/>
 - [GMCholos](https://x.com/JustTurbo02) (to X) <br/>
 - [Ginka]() (nothing actually) <br/>
-
+- [Fenqiyuan](https://www.youtube.com/@fenqiyuan) <br/>
