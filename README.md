@@ -13,12 +13,24 @@ Represent
 Lalapinkbun From Trio Dimension Studio
 
 ### Demo
-Coding - Lalapinkbun <br/>
-Artist - Lalapinkbun <br/>
-Script - Lalapinkbun <br/>
-Card Creator and Card System Ideator - Lalapinkbun, GM Chalos, Ginka, XXX <br/>
-UI - Lalapinkbun <br/>
-Music Artist - Lalapinkbun <br/>
+<table>
+  <tr>
+    <th> Coding </th>
+    <th> Artist </th>
+    <th> Script </th>
+    <th> Card Creator and Card System Ideator </th>
+    <th> UI </th>
+    <th> Music Artistg </th>
+  </tr>
+  <tr>
+    <th> Lalapinkbun </th>
+    <th> Lalapinkbun </th>
+    <th> Lalapinkbun </th>
+    <th> Lalapinkbun, GM Chalos, Ginka, XXX </th>
+    <th> Lalapinkbun </th>
+    <th> Lalapinkbun </th>
+  </tr>
+</table>
 
 ### After Demo
 Coding - Lalapinkbun <br/>
