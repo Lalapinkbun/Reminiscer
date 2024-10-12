@@ -32,7 +32,7 @@ Music Artist - Lalapinkbun <br/>
 ## About the Source Code
 It'll appear after the demo version
 
-Version Now: 1.0.0-alpha
+Version Now: __**1.0.0-alpha**__
 
 ## From Fenqiyaun
 Eh.... Hi?
