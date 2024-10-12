@@ -16,8 +16,13 @@ Lalapinkbun From Trio Dimension Studio
 <table>
   <tr>
     <th> Coding </th>
-    <th> Artist </th>
+    <th> Lalapinkbun </th>
+  </tr>
+  <tr>
     <th> Script </th>
+    <th> Lalapinkbun </th>
+  </tr>
+    <th> Artist </th>
     <th> Card Creator and Card System Ideator </th>
     <th> UI </th>
     <th> Music Artistg </th>
