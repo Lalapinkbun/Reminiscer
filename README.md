@@ -41,13 +41,32 @@ Lalapinkbun From Trio Dimension Studio
 </table>
 
 ### After Demo
-Coding - Lalapinkbun <br/>
-Artist - GMCholos, Lalapinkbun <br/>
-Script - Lalapinkbun <br/>
-Card Creator and Card System Ideator - Lalapinkbun, GM Chalos, Ginka, XXX <br/>
-UI - Lalapinkbun <br/>
-Pixel Artist - GMCholos, Lalapinkbun <br/>
-Music Artist - Lalapinkbun <br/>
+<table>
+  <tr>
+    <th> Coding </th>
+    <th> Lalapinkbun </th>
+  </tr>
+  <tr>
+    <th> Script </th>
+    <th> Lalapinkbun </th>
+  </tr>
+  <tr>
+    <th> Artist </th>
+    <th> GMCholos, Lalapinkbun </th>
+  </tr>
+  <tr>
+    <th> Card Creator and Card System Ideator </th>
+    <th> Lalapinkbun, GM Chalos, Ginka, XXX </th>
+  </tr>
+  <tr>
+    <th> UI </th>
+    <th> Lalapinkbun </th>
+  </tr>
+  <tr>
+    <th> Music Artist </th>
+    <th> Lalapinkbun </th>
+  </tr>
+</table>
 
 ## About the Source Code
 It'll appear after the demo version
