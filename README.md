@@ -29,7 +29,8 @@ UI - Lalapinkbun <br/>
 Pixel Artist - GMCholos, Lalapinkbun <br/>
 Music Artist - Lalapinkbun <br/>
 
-### About the 
+## About the Source Code
+It'll Appear after the demo version
 
 ## From Fenqiyaun
 and Lalapinkbun are going to sleep now lol
