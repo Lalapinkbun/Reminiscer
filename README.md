@@ -1,4 +1,4 @@
-# Reminiscer of Drteam
+# Reminiscer of Dream
 The first game development from Lalapinkbun
 
 ## Introduction
