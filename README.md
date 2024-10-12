@@ -22,17 +22,20 @@ Lalapinkbun From Trio Dimension Studio
     <th> Script </th>
     <th> Lalapinkbun </th>
   </tr>
+  <tr>
     <th> Artist </th>
-    <th> Card Creator and Card System Ideator </th>
-    <th> UI </th>
-    <th> Music Artistg </th>
+    <th> Lalapinkbun </th>
   </tr>
   <tr>
-    <th> Lalapinkbun </th>
-    <th> Lalapinkbun </th>
-    <th> Lalapinkbun </th>
+    <th> Card Creator and Card System Ideator </th>
     <th> Lalapinkbun, GM Chalos, Ginka, XXX </th>
+  </tr>
+  <tr>
+    <the> UI </th>
     <th> Lalapinkbun </th>
+  </tr>
+  <tr>
+    <the> Music Artist </th>
     <th> Lalapinkbun </th>
   </tr>
 </table>
