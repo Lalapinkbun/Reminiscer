@@ -13,40 +13,29 @@ Represent
 Lalapinkbun From Trio Dimension Studio
 
 ### Demo
-Coding - Lalapinkbun
-
-Artist - Lalapinkbun
-
-Script - Lalapinkbun
-
-Card Creator and Card System Ideator - Lalapinkbun, GM Chalos, Ginka, XXX
-
-UI - Lalapinkbun
-
-Music Artist - Lalapinkbun
+Coding - Lalapinkbun <br/>
+Artist - Lalapinkbun <br/>
+Script - Lalapinkbun <br/>
+Card Creator and Card System Ideator - Lalapinkbun, GM Chalos, Ginka, XXX <br/>
+UI - Lalapinkbun <br/>
+Music Artist - Lalapinkbun <br/>
 
 ### After Demo
-Coding - Lalapinkbun
-
-Artist - GMCholos, Lalapinkbun
-
-Script - Lalapinkbun
-
-Card Creator and Card System Ideator - Lalapinkbun, GM Chalos, Ginka, XXX
-
-UI - Lalapinkbun
-
-Pixel Artist - GMCholos, Lalapinkbun
-
-Music Artist - Lalapinkbun
+Coding - Lalapinkbun <br/>
+Artist - GMCholos, Lalapinkbun <br/>
+Script - Lalapinkbun <br/>
+Card Creator and Card System Ideator - Lalapinkbun, GM Chalos, Ginka, XXX <br/>
+UI - Lalapinkbun <br/>
+Pixel Artist - GMCholos, Lalapinkbun <br/>
+Music Artist - Lalapinkbun <br/>
 
 ## From Fenqiyaun
 and Lalapinkbun are going to sleep now lol
 
 ## Link
-[Trio Dimension Studio Youtube](https://www.youtube.com/@TrioDimensionStudioOfficial) <br/>
-[Trio Dimension Studio X](https://x.com/TrioDimension) <br/>
-[Lalapinkbun](https://www.youtube.com/@lalapinkbun) (to Youtube) <br/>
-[GMCholos](https://x.com/JustTurbo02) (to X) <br/>
-[Ginka]() (nothing actually) <br/>
+- [Trio Dimension Studio Youtube](https://www.youtube.com/@TrioDimensionStudioOfficial) <br/>
+- [Trio Dimension Studio X](https://x.com/TrioDimension) <br/>
+- [Lalapinkbun](https://www.youtube.com/@lalapinkbun) (to Youtube) <br/>
+- [GMCholos](https://x.com/JustTurbo02) (to X) <br/>
+- [Ginka]() (nothing actually) <br/>
 
